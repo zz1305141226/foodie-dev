@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9260f39e-6c39-4021-9d05-ad2d619e7ab3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9260f39e-6c39-4021-9d05-ad2d619e7ab3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/foodie-dev-common/target/" />
     <ignored path="$PROJECT_DIR$/foodie-dev-pojo/target/" />
@@ -939,7 +937,7 @@
       <workItem from="1587127893183" duration="2743000" />
       <workItem from="1587180604892" duration="1718000" />
       <workItem from="1587214780261" duration="1149000" />
-      <workItem from="1587222244022" duration="2986000" />
+      <workItem from="1587222244022" duration="3581000" />
     </task>
     <task id="LOCAL-00001" summary="初始项目提交（未更改）">
       <created>1587224451755</created>
@@ -984,7 +982,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222789000" />
+    <option name="totallyTimeSpent" value="223384000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
