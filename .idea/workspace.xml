@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9260f39e-6c39-4021-9d05-ad2d619e7ab3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/foodie-dev-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/foodie-dev-mapper.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/foodie-dev-service.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/foodie-dev-common/target/" />
@@ -51,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/center/CenterUserService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -69,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/center/MyOrdersService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-146">
-              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+              <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -77,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/AddressServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="308">
+              <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -96,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/center/CenterUserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-62">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -105,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/center/MyCommentsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-546">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -164,7 +157,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -946,8 +939,16 @@
       <workItem from="1587127893183" duration="2743000" />
       <workItem from="1587180604892" duration="1718000" />
       <workItem from="1587214780261" duration="1149000" />
-      <workItem from="1587222244022" duration="1923000" />
+      <workItem from="1587222244022" duration="2986000" />
     </task>
+    <task id="LOCAL-00001" summary="初始项目提交（未更改）">
+      <created>1587224451755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587224451755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -983,7 +984,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221726000" />
+    <option name="totallyTimeSpent" value="222789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1006,11 +1007,11 @@
       <window_info id="Image Layers" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.22117962" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" order="0" visible="true" weight="0.3385269" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.3385269" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32953367" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.32953367" />
       <window_info anchor="bottom" id="Spring" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="4" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32953367" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3286119" />
@@ -1072,6 +1073,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始项目提交（未更改）" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始项目提交（未更改）" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -1401,7 +1406,7 @@
     <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/center/MyOrdersService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-146">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1415,21 +1420,21 @@
     <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/center/CenterUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/center/CenterUserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-62">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/center/MyCommentsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-546">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -1442,8 +1447,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/AddressServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="308">
+          <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
         </state>
       </provider>
     </entry>
